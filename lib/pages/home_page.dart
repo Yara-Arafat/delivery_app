@@ -126,7 +126,7 @@ class HomePage extends StatelessWidget {
                   ),
                 ),
                 const SizedBox(
-                  height: 32,
+                  height: 30,
                 ),
                 GridView.builder(
                   gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
