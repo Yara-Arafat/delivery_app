@@ -25,7 +25,7 @@ List<CategoryItem> categories = [
       imgUrl: 'https://cdn-icons-png.flaticon.com/512/4746/4746159.png'),
   CategoryItem(
       id: '4',
-      name: 'Ckicken',
+      name: 'Chicken',
       imgUrl: 'https://cdn-icons-png.flaticon.com/512/5793/5793742.png'),
   CategoryItem(
       id: '5',
