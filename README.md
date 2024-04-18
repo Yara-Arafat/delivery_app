@@ -1,6 +1,6 @@
 # food_delivery
 
-A new Flutter project.
+Responsive & adaptive product display application. Using navigation & multiple Screens.
 
 ## Getting Started
 
