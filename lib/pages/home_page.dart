@@ -1,11 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/rendering.dart';
 import 'package:food_delivery/models/category_item.dart';
 import 'package:food_delivery/models/food_item.dart';
 import 'package:food_delivery/pages/product_details_page.dart';
-import 'package:food_delivery/provider/favorite_provider.dart';
 import 'package:food_delivery/widgets/product_item_widget.dart';
-import 'package:provider/provider.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({
